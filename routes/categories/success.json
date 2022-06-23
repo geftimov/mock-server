@@ -1,0 +1,18 @@
+{
+  "count": 100,
+  "categories": [
+    {
+      "id": "castle",
+      "value": "Castle",
+      "count": 75,
+      "subCategories": [
+        {
+          "id": "ruins",
+          "value": "Ruins",
+          "count": 2,
+          "subCategories": []
+        }
+      ]
+    }
+  ]
+}
